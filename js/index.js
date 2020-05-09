@@ -78,9 +78,9 @@ scrollCount.addEventListener('wheel', (e) => {
     console.log(`I scrolled ${sCount} pixels 😁`);
 });
 //selector
-var x5 = document.querySelector('body');
+/*var x5 = document.querySelector('.footer p');
 
 x5.addEventListener('select', (e) => {
     console.log('something selected');
 
-});
+});*/
